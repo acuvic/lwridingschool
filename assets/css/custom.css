@@ -1,0 +1,12 @@
+.navbar-light .navbar-brand {
+  color: #DE9C5F;
+  font-size: 1.2em;
+}
+
+.dark h1 {
+  color: rgb(200,220,255);
+}
+
+#demo a {
+  color: #673065;
+}

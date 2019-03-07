@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Academic Kickstart"
-subtitle = ""
+title = "Little Wratting Riding School"
+subtitle = "<h3>Top Class Equestrian Services</h3>"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
-  
+  gradient_start = "green"
+  gradient_end = "LightGreen"
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -36,18 +36,14 @@ subtitle = ""
   text_color_light = true
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "padding-top: 20px; padding-bottom: 20px;"
- 
+
  # CSS class.
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
-
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
-
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+Welcome and thanks for visiting! For inspiration, check out [our photos and videos](https://lwridingschool.co.uk/media) which shows off our facilities and horses.
 
 - [View the documentation](https://sourcethemes.com/academic/docs/)
 - [Ask a question](http://discuss.gohugo.io/)
