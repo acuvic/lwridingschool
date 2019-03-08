@@ -43,22 +43,15 @@ subtitle = "<h3>Top Class Equestrian Services</h3>"
  css_class = ""
 +++
 
-Welcome and thanks for visiting! For inspiration, check out [our photos and videos](https://lwridingschool.co.uk/media) which shows off our facilities and horses.
+Welcome and thanks for visiting! For inspiration, check out [our photos and videos](https://lwridingschool.co.uk/media) which shows off our facilities and our horses. Here are some of the services we offer:
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+- [Private and group lessons, stable management and Pony Parties](https://lwridingschool.co.uk/lessons/)
+- [Flatwork, Jumping and Pony Days for riders of all abilities aged 4 and above](http://https://lwridingschool.co.uk/arena/)
+- [Lessons available daytime and evenings, 7 days a week](https://https://lwridingschool.co.uk/prices/)
+- [Arena Hire available](https://https://lwridingschool.co.uk/arena/) - [Fully Qualified and DBS checked instructor](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+**For bookings and enquiries, please contact Tayla [07507 647188](tel://07507647188)**
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
+Cancellation policy apply for all bookings.
 {{% /alert %}}
