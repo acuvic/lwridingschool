@@ -9,11 +9,11 @@ title = "Little Wratting Riding School"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://lwridingschool.co.uk/"
+baseurl = "https://www.lwridingschool.co.uk/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "© LWRS"
+copyright = "© LW Riding School"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
