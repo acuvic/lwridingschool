@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Little Wratting Riding School</title>
+    <link>https://www.lwridingschool.co.uk/home/</link>
+    <description>Recent content in Homes on Little Wratting Riding School</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© LW Riding School</copyright>
+    
+	<atom:link href="https://www.lwridingschool.co.uk/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://www.lwridingschool.co.uk/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
+    </item>
+    
+    <item>
+      <title>&lt;h1&gt;Little Wratting Riding School&lt;h1&gt;</title>
+      <link>https://www.lwridingschool.co.uk/home/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/demo/</guid>
+      <description>Welcome and thanks for visiting! For inspiration, check out our photos and videos which shows off our facilities and our horses. Here are some of the services we offer:
+ Private and group lessons, stable management and Pony Parties Flatwork, Jumping and Pony Days for riders of all abilities aged 4 and above Lessons available daytime and evenings, 7 days a week Arena Hire available Fully Qualified and DBS checked instructor Rocktape Kinesiology practitioner - well-being for your horse  For bookings and enquiries, please contact Tayla 07507 647188</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.lwridingschool.co.uk/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/about/</guid>
+      <description>Little Wratting Riding School We have just moved to these premises but the owner and principal tutor, Tayla has been teaching for many years and has gained a reputation of giving top class instructions. She teaches all ages from the total beginner to keen competitors and she competes at an advanced level herself.
+The facilities are second to none, consisting of purpose build stables, a spacious arena and paddocks with easy access and parking.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://www.lwridingschool.co.uk/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/projects/</guid>
+      <description>Rocktape Kinesiology For bookings and enquiries, please contact Tayla 07507 647188
+Cancellation policy apply for all bookings.
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://www.lwridingschool.co.uk/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://www.lwridingschool.co.uk/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/posts/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.lwridingschool.co.uk/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lwridingschool.co.uk/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
