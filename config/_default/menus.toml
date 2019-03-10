@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#"
   weight = 10
 
 [[main]]
   name = "About"
-  url = "#posts"
+  url = "#about"
   weight = 20
 
 [[main]]
@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Media"
-  url = "#featured"
+  url = "/media/"
   weight = 40
 
 [[main]]
   name = "Testimonials"
-  url = "/tutorial/"
+  url = "/testimonials/"
   weight = 50
 
 [[main]]
