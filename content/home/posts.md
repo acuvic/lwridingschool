@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "<p>Please visit our Facebook page to get the latest updates (click the image on the right)</p>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -64,3 +64,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<a href="https://www.facebook.com/littlewrattingridingschool/" target="_blank"><img src="/img/LWRS_Facebook_logo.jpg" alt="Little Wratting Riding School Facebook" /></a>
