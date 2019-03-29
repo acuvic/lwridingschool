@@ -45,12 +45,12 @@ subtitle = "<h3>Top Class Equestrian Services</h3>"
 
 Welcome and thanks for visiting! For inspiration, check out [our photos and videos](https://lwridingschool.co.uk/media) which shows off our facilities and our horses. Here are some of the services we offer:
 
-- [Private and group lessons, stable management and Pony Parties](https://lwridingschool.co.uk/lessons/)
-- [Flatwork, Jumping and Pony Days for riders of all abilities aged 4 and above](http://https://lwridingschool.co.uk/arena/)
-- [Lessons available daytime and evenings, 7 days a week](https://https://lwridingschool.co.uk/prices/)
-- [Arena Hire available](https://https://lwridingschool.co.uk/arena/)
+- [Private and group lessons, stable management and Pony Parties](https://lwridingschool.co.uk/#projects/)
+- [Flatwork, Jumping and Pony Days for riders of all abilities aged 4 and above](http://https://lwridingschool.co.uk/#projects/)
+- [Lessons available daytime and evenings, 7 days a week](https://https://lwridingschool.co.uk/#prjects/)
+- [Arena Hire available](https://https://lwridingschool.co.uk/#projects/)
 - [Fully Qualified and DBS checked instructor](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
-- [Rocktape Kinesiology practitioner - well-being for your horse](https://lwridingschool.co.uk/rocktape/)
+- [Rocktape Kinesiology practitioner - well-being for your horse](https://lwridingschool.co.uk/#projects/)
 
 {{% alert note %}}
 **For bookings and enquiries, please contact Tayla [07507 647188](tel://07507647188)**
