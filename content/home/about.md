@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
 title = "About"
-subtitle = "<br /><img src='/img/tayla.png' width='250px' /><br /><img src='/img/tt_logo.png' width='250px' /><br /><img src='/img/BHS_professional_coach.png' width='250px' />"
+subtitle = "<br /><img src='/img/tayla.png' width='250px' /><br /><img src='/img/NewLogoFB.png' width='250px' /><br /><img src='/img/BHS_professional_coach.png' width='250px' />"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.

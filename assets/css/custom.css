@@ -1,14 +1,22 @@
+.navbar {
+    background: #005f6a !important;
+}
 .navbar-light .navbar-brand {
-  color: #DE9C5F;
+  color: #72b8d6;
   font-size: 1.2em;
+  background: #005f6a;
+}
+
+#demo {
+  background-image: linear-gradient(#72b8d6,#bebebe) !important;
 }
 
 .dark h1 {
-  color: rgb(255,195,175);
+  color: #111111;
 }
 
 #demo h3 {
-  color: #AA3065;
+  color: #333333;
 }
 
 p {
