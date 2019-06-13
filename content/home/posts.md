@@ -64,4 +64,4 @@ subtitle = "<p>Please visit our Facebook page to get the latest updates (click t
  # CSS class.
  css_class = ""
 +++
-<a href="https://www.facebook.com/littlewrattingridingschool/" target="_blank"><img src="/img/LWRS_Facebook_logo.jpg" alt="Little Wratting Riding School Facebook" /></a>
+<a href="https://www.facebook.com/pg/Tayla.LWRS/" target="_blank"><img src="/img/LWRS_Facebook_logo.jpg" alt="Little Wratting Riding School Facebook" /></a>
