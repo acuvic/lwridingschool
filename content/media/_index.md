@@ -2,6 +2,7 @@
 date = 2017-12-01
 title = "Photos and Videos"
 subtitle = "Click on item to view"
+
 [[gallery_item]]
 album = "1"
 image = "smart_pose.jpg"
@@ -51,7 +52,9 @@ album = "1"
 image = "little_wratting_arena.jpg"
 caption = "Little Wratting Arena"
 +++
+<a href="../media/pony_days/" ><img src="/img/pony_day_june2019/pony_days_button.png" /></a>
 
+### Miscellaneous Photos and Videos
 {{< gallery album="1" >}}
 
 {{< youtube MuIHCD0okFI >}}
