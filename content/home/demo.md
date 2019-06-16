@@ -25,8 +25,8 @@ subtitle = "<h3>Top Class Equestrian Services</h3>"
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "#35B235"
-  gradient_end = "#BEFFBE"
+  # gradient_start = "#35B235"
+  # gradient_end = "#BEFFBE"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -50,7 +50,7 @@ Welcome and thanks for visiting! For inspiration, check out [our photos and vide
 - [Lessons available daytime and evenings, 7 days a week](https://lwridingschool.co.uk/#projects/)
 - [Arena Hire available](https://lwridingschool.co.uk/#projects/)
 - [Fully Qualified and DBS checked instructor](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
-- [Rocktape Kinesiology practitioner - well-being for your horse](https://lwridingschool.co.uk/#projects/)
+- <a href="/#projects">Rocktape Kinesiology practitioner - well-being for your horse</a>
 
 {{% alert note %}}
 **For bookings and enquiries, please contact Tayla [07507 647188](tel://07507647188)**

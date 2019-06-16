@@ -52,7 +52,7 @@ album = "1"
 image = "little_wratting_arena.jpg"
 caption = "Little Wratting Arena"
 +++
-<a href="../media/pony_days/" ><img src="/img/pony_day_june2019/pony_days_button.png" /></a>
+<a style="display:inline-block;" href="../media/pony_days/" ><img src="/img/pony_day_june2019/pony_days_button.png" /></a>&nbsp;<a style="display:inline-block;" href="../media/our_horses/" ><img src="/img/our_horses/our_horses_button.png" /></a>
 
 ### Miscellaneous Photos and Videos
 {{< gallery album="1" >}}
