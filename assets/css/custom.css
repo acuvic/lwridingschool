@@ -35,3 +35,14 @@ a:link {
     border-width: 0px 0px 1px 0px;
     border-style: none none dotted none;
 }
+
+section.home-section {
+    padding: 30px 0 30px 0 !important;
+}
+
+.clickmore {
+    color: #555555;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #72b8d6;
+}

@@ -2,10 +2,10 @@
 # About/Biography widget.
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 25  # Order that this section will appear in.
 
-title = "About"
-subtitle = "<br /><img src='/img/tayla.png' width='250px' /><br /><img src='/img/NewLogoFB.png' width='250px' /><br /><img src='/img/BHS_professional_coach.png' width='250px' />"
+title = "Our Facilities"
+subtitle = "<br /><img src='/img/NewLogoFB.png' width='250px' /><br />"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
@@ -16,11 +16,9 @@ author = "admin"
 +++
 
 {{< figure src="/img/lw_riding_school.jpg" title="Little Wratting Riding School" >}}
-We have just moved to these premises but the owner and principal tutor, Tayla has been teaching for many years and has gained a reputation of giving top class instructions. She teaches all ages from the total beginner to keen competitors and she competes at an advanced level herself.
+The facilities are very accommodating, consisting of 14 large, purpose built stables, a spacious 50m x 50m arena, full set of showjumps, well maintained paddocks and easy access to parking.
 
-The facilities are second to none, consisting of purpose build stables, a spacious arena and paddocks with easy access and parking.
-
-There is an excellent selection of horses to suit the type and level of riding so that people of all abilities will feel comfortable.
+There is an selection of horses to suit a range of riding abilities to ensure all our clients feel comfortable. See <a href="../media/our_horses/">‘our horses page’</a>.
 
 {{% alert note %}}
 **For bookings and enquiries, please contact Tayla [07507 647188](tel://07507647188)**
