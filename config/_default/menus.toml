@@ -24,6 +24,11 @@ weight = 25
   weight = 30
 
 [[main]]
+    name = "Uniform"
+    url = "#uniform"
+    weight = 35
+
+[[main]]
   name = "Media"
   url = "/media/"
   weight = 40
