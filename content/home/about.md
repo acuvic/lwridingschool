@@ -16,7 +16,7 @@ author = "admin"
 
 +++
 
-{{< figure src="/img/lw_riding_school.jpg" title="Little Wratting Riding School" >}}
+{{< figure src="/img/facilities/facilities.jpg" title="Little Wratting Riding School" >}}
 The facilities are very accommodating, consisting of 14 large, purpose built stables, a spacious 50m x 50m arena, full set of showjumps, well maintained paddocks and easy access to parking.
 
 There is an selection of horses to suit a range of riding abilities to ensure all our clients feel comfortable. See <a href="../media/our_horses/">‘our horses page’</a>.

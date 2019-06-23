@@ -6,7 +6,7 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Updates"
 subtitle = "<p>Please visit our Facebook page to get the latest updates (click the image on the right)</p>"
 
 [content]
