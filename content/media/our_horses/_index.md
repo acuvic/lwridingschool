@@ -33,10 +33,6 @@ image = "our_horses/Ginny_13.2hh_Mare.jpg"
 caption = "Ginny_13.2hh_Mare"
 [[gallery_item]]
 album = "3"
-image = "our_horses/Joey_16.1hh_Gelding.jpg"
-caption = "Joey_16.1hh_Gelding"
-[[gallery_item]]
-album = "3"
 image = "our_horses/Lily_13.2hh_Mare.jpg"
 caption = "Lily_13.2hh_Mare"
 [[gallery_item]]
@@ -47,6 +43,14 @@ caption = "Pixie_15hh_Mare"
 album = "3"
 image = "our_horses/Rocky_14hh_Gelding.jpg"
 caption = "Rocky_14hh_Gelding"
+[[gallery_item]]
+album = "3"
+image = "our_horses/Plum_15.2hh_Mare.jpg"
+caption = "Plum_15.2hh_Mare"
+[[gallery_item]]
+album = "3"
+image = "our_horses/Roodee_16.3hh_Gelding.jpg"
+caption = "Roodee_16.3hh_Gelding"
 
 +++
 
